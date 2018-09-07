@@ -1,1 +1,1 @@
-console.log('hellksjfu')
+alert('hellksjfu')
